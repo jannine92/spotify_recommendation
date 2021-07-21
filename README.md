@@ -42,5 +42,5 @@ The important files are:
 
 ## Credits and Acknowledgments
 
-Must give credit to Xamac Eren Ay who created the dataset as part of a Kaggle competition and inspired my work. You can find the data and competition [here](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks). Additionally, I would like to thank Spotify for providing a Web API and access to the features associated with the tracks.
+Must give credit to Yamac Eren Ay who created the dataset as part of a Kaggle competition and inspired my work. You can find the data and competition [here](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks). Additionally, I would like to thank Spotify for providing a Web API and access to the features associated with the tracks.
 Feel free to use the code here as you would like!
