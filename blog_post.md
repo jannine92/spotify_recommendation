@@ -167,7 +167,7 @@ Theoretically, the songs don't have to be in the tracks dataset. However, then y
 
 
 <p align="center"> 
-    <img src="images/user_list.png" alt="Correlation Matrix">
+    <img src="images/user_list.PNG" alt="Correlation Matrix">
     <br>
     <em>User List with mix of pop and classical music</em>
 </p>
