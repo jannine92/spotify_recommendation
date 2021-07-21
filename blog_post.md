@@ -135,7 +135,7 @@ Generally for a recommendation engine, you have (a) user item(s) and based on th
 For the clustering, I use K-Means which groups similar items into k clusters. In that process, it calculates the euclidean distance between points as measure of similarity and clusters the points to their most similar centroids. Why is that important? Because this is a problem for non-numerical features. Categorical / binary features come from a discrete, non-continuous sample space so that the euclidean distance doesn't have a meaning. There are variations of K-Means (like k-Prototypes) that can handle continuous and categorical data and distance metrics like the Gower distance for categorical data but both alternatives are memory-intensive and costly. So I decided to only use numerical data as features. 
 
 <p align="center"> 
-    <img src="images/features.png" alt="Features used for model">
+    <img src="images/features.PNG" alt="Features used for model">
     <br>
     <em>Example data with features used for model
   </em>
@@ -191,7 +191,7 @@ Assume `top_n = 3`, `number_of_recommendations = 5`.
 
 
 <p align="center"> 
-    <img src="images/result_rec.png" alt="Resulting recommended tracks">
+    <img src="images/result_rec.PNG" alt="Resulting recommended tracks">
     <br>
     <em>Resulting recommended tracks</em>
 </p>
