@@ -9,7 +9,7 @@
  </p>
 
 Have you ever wondered how all these platforms like Spotify, Amazon or Facebook create the recommendations for songs, books, movies, electronic devices or contacts?  
-Sometimes, the suggestions fit very well and sometimes they don't fit at all ("_I just bought a power bank, why would I need a second one a day later?!_").  And while for some decisions it seems to be quite clear how they were made, for others it is less obvious. These are the recommendations that surprise us and might even be a real added value to us. But at the same time, you might get a bit suspicious because you just don't know how the algorithms works and potentially influences your behavior.  
+Sometimes, the suggestions fit very well and sometimes they don't fit at all ("_I just bought a power bank, why would I need a second one a day later?!_").  And while for some decisions it seems to be quite clear how they were made, for others it is less obvious. These are the recommendations that surprise us and might even be a real added value to us. But at the same time, you might get a bit suspicious because you just don't know how the algorithms work and potentially influence your behavior.  
 
 Of course, I don't know how exactly the recommendation engines of all these companies work. But there are some commonly used methods that I will quickly introduce and I will show you one of them for the recommendation of songs on Spotify. 
 
@@ -98,7 +98,7 @@ With this knowledge I wouldn't recommend using it this as feature for a model: I
 
 
 
-##### Acoustic Features
+#### Acoustic Features
 
 <p align="center"> 
     <img src="images/boxplot_audio_fts.png" alt="Boxplot Audio Features">
@@ -215,9 +215,6 @@ In the meantime, my task is to improve the clustering model, potentially include
 Now the only question left is: Which website do you have in mind right now?
 
  
-
-If you'd like to take a look at my code, feel free to visit my Github page: 
-
 ---
 
 [1] Kaggle Competition Data. https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks (retrieved: 07/20/2021)  

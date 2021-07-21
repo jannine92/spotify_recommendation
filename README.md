@@ -13,6 +13,13 @@
 
 In this project I am implementing a content-based recommendation system using a K-Means clustering algorithm to predict songs (pieces) from Spotify based on a playlist from a user.
 
+The resulting K-Means cluster looks like this: 
+
+<p align="center"> 
+    <img src="images/pca_clusters.png" alt="PCA Clusters">
+</p>
+
+These clusters are then used for the content-based recommendation.  
 
 
 ## How can you use it?
